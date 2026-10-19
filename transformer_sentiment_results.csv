@@ -1,0 +1,26 @@
+Sentence,Predicted label,Confidence score
+This movie was wonderful and deeply moving.,POSITIVE,0.9999
+The food was cold and the service was terrible.,NEGATIVE,0.9997
+I enjoyed the performance and would watch it again.,POSITIVE,0.9999
+The product broke after one day.,NEGATIVE,0.9988
+The story was predictable but the acting was excellent.,POSITIVE,0.9998
+I am disappointed with this purchase.,NEGATIVE,0.9998
+A brilliant experience from beginning to end.,POSITIVE,0.9999
+The delivery arrived late and the package was damaged.,NEGATIVE,0.9997
+"It was fine, nothing special.",NEGATIVE,0.9576
+The soundtrack is beautiful.,POSITIVE,0.9999
+I would not recommend this restaurant.,NEGATIVE,0.9767
+Customer support solved my problem quickly.,NEGATIVE,0.9616
+The interface is confusing and frustrating.,NEGATIVE,0.9996
+I love the design and the quality.,POSITIVE,0.9999
+The ending made no sense.,NEGATIVE,0.9998
+Good value for the price.,POSITIVE,0.9999
+The room was dirty and noisy.,NEGATIVE,0.9996
+I had a fantastic time.,POSITIVE,0.9999
+The book was boring and repetitive.,NEGATIVE,0.9998
+The staff were friendly and helpful.,POSITIVE,0.9998
+The instructions were unclear.,NEGATIVE,0.9992
+The update fixed several annoying bugs.,NEGATIVE,0.9986
+I expected more for the money.,NEGATIVE,0.997
+The experience exceeded my expectations.,POSITIVE,0.997
+The film was neither good nor bad.,NEGATIVE,0.9868

@@ -1,0 +1,5 @@
+Step / model,Task,Dataset,Key metric,Training time (s)
+ANN — Diabetes,Binary classification,Pima Indians Diabetes (local CSV),Accuracy=0.766; F1=0.654,9.18
+CNN — CIFAR-10,10-class image classification,CIFAR-10,Test accuracy=0.632,47.8
+LSTM — Airline passengers,Time-series forecasting,Monthly airline passengers,RMSE=63.35 passengers,14.35
+Transformer — Sentiment,Text sentiment classification,25 example sentences,25 sentences classified,Pretrained inference; no training
