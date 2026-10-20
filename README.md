@@ -13,7 +13,13 @@ This project contains six practical sections:
 5. **Transformer Text Classification** — use a pretrained Hugging Face sentiment-analysis pipeline.
 6. **Model Comparison and Reflection** — collect available metrics and discuss model limitations.
 
-> **Notebook:** `Practical-exam(2).ipynb`  
+
+### ▶️ Video Demonstration
+
+> **Project Explanation Video:**  
+> [Click here to watch the complete project explanation](https://drive.google.com/file/d/12UzQNgdFpnhN_HMX4oz1OFncnoTy1KxZ/view?usp=sharing)
+
+> **Notebook:** `Practical-exam.ipynb`  
 > Run the notebook cells from top to bottom. Scores depend on the dataset, training settings, and runtime; use the metrics produced by your own run.
 
 ## Project Structure
